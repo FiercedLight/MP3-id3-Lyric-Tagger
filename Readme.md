@@ -24,4 +24,4 @@ It doesn't write lyrics when:
  - there are connection problems
 
 ## Issues
-It might not work on id3v2.2 tags since eyeD3 is not supporting that version, but it tries to convert to id3v2.4 and add the lyrics. Sometimes the lyrics do not show up when this happens. You can fix this by using free program mp3tag (https://www.mp3tag.de/en/). Simply select the mp3 file, open its extended tags, and click OK. This will propably fix the problem.
+It might not work on id3v2.2 tags since eyeD3 is not supporting that version, but it tries to convert to id3v2.4 and add the lyrics. Sometimes the lyrics do not show up when this happens. You can fix this by using free program mp3tag (https://www.mp3tag.de/en/). Simply select the mp3 file, open its extended tags, and click OK. This will probably fix the problem.
